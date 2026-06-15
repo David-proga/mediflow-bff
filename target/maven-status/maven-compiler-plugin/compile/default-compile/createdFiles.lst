@@ -1,0 +1,4 @@
+com\mediflow\bff\config\WebConfig.class
+com\mediflow\bff\controller\BffUsuariosController.class
+com\mediflow\bff\App.class
+com\mediflow\bff\BffServiceApplication.class
